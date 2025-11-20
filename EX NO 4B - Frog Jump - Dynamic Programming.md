@@ -3,7 +3,7 @@
 ## Aim:
 To compute the number of distinct ways a frog can reach the top of a staircase where it can jump either 1 step or 2 steps at a time.
 
-**Problem Statement:**
+## Problem Statement:
 To write a Java program to for given constraints. A Frog Jump 1 or 2 steps at a time. A frog is at the bottom of the stairs with n steps. It can jump either 1 or 2 steps at a time. Write a program to find the number of distinct ways the frog can reach the top (n-th step).
 
 **Input Format:**
