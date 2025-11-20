@@ -1,5 +1,5 @@
 
-# EX 4D Longest Common SubSequence - Dynamic Programming
+# EX 4D Longest Common Subsequence - Dynamic Programming
 ## Date:
 ## Aim:
 To compute the length of the Longest Common Subsequence (LCS) between two strings using dynamic programming.
